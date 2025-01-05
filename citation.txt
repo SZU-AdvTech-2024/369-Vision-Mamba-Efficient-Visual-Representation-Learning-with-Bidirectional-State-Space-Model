@@ -1,0 +1,7 @@
+@inproceedings{REPO369,
+    author = "Zhu, Lianghui and Liao, Bencheng and Zhang, Qian and Wang, Xinlong and Liu, Wenyu and Wang, Xinggang",
+    booktitle = "Forty-first International Conference on Machine Learning",
+    title = "{Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model}",
+    url = "https://openreview.net/forum?id=YbHCqn4qF4",
+    year = "2024"
+}
