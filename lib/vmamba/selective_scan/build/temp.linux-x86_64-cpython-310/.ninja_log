@@ -1,0 +1,10 @@
+# ninja log v5
+1	19835	1714013919618990663	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_fwd.o	a46aa9b1420bb1f9
+0	26030	1714013925822998735	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan.o	e9c73722906f68c6
+1	64957	1714013964715045858	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cus/selective_scan_core_bwd.o	2b7d7759553cede4
+8	18615	1714013984151067249	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	9761a359aa04f0dc
+9	22814	1714013988363071702	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	6da2c5c2225e896b
+8	63633	1714014029143111605	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	3be2bb05dc1309f6
+10	22729	1714014052551131990	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_oflex.o	f75fb6c0105e3d4e
+10	28825	1714014058623136991	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	14bcf5ad858e7ee8
+10	103036	1714014132823189189	/data/cgl/Mamba/lib/vmamba/selective_scan/build/temp.linux-x86_64-cpython-310/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	5fdd20c2e53a1be7

@@ -1,0 +1,25 @@
+# ninja log v5
+1	5722	1713501659277452091	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	a801b3c13038424e
+1	15979	1713501669525442503	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	ad332ca491ed393a
+0	28791	1713501682341430541	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	6c1777f0cfae5db3
+1	49203	1713501702733411574	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	9e5a40de51db46f8
+58	4684	1713524119138192458	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	1b75cf4c80b03509
+58	13287	1713524127726028339	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	c4a4d20be2c83b6b
+57	19399	1713524133845914259	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	95bf14a4575d9de1
+58	39275	1713524153673560744	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	fe04b3ed2c5b1bff
+13	5294	1713631238171543505	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	1b75cf4c80b03509
+13	15009	1713631247939523871	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	c4a4d20be2c83b6b
+12	21901	1713631254835510106	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	95bf14a4575d9de1
+13	45271	1713631278171464106	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	fe04b3ed2c5b1bff
+4	4517	1716259082388247637	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	1b75cf4c80b03509
+4	12634	1716259090484365190	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	c4a4d20be2c83b6b
+3	18774	1716259096632454459	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	95bf14a4575d9de1
+3	37730	1716259115540729001	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	fe04b3ed2c5b1bff
+10	4458	1716259366224368818	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	598ba6fa583683ed
+9	12634	1716259374384487300	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	d249219a2c87fea8
+9	18371	1716259380120570587	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	50412090487355ca
+9	37927	1716259399632853900	/data/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	686fa90c72c7652f
+10	4270	1720181242779331709	/media/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	b50e4c5b176c2a24
+9	12074	1720181250574984935	/media/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	3621cf41fe7c1119
+9	17118	1720181255618762428	/media/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	503690b53eacd844
+9	35908	1720181274385947060	/media/cgl/Mamba/lib/mamba/causal_conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	620f1ef8ef552090
